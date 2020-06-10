@@ -1,10 +1,6 @@
 # Stock-Market
 
-Nginx README
-
-Instructions for installing Nginx
-
-
+# Instructions for installing Nginx
 NOTE: It is strongly recommended that nginx be run in a Linux environment as this is the optimal environment for this software. Ubuntu 18.04 was used for the duration of this project.
 
 
@@ -29,15 +25,10 @@ Linux (Strongly Recommended):
 6. Run the following to ensure it has started:
 	sudo systemctl status nginx
 
-
-
-
 Windows installation:
 	 
 See Nginx website for instructions to install on Windows:
 	http://nginx.org/en/docs/windows.html
-
-
 
 OSX:
 
@@ -47,8 +38,7 @@ https://www.javatpoint.com/installing-nginx-on-mac
 
 
 
-
-Instructions for starting the Stock Server (Stock Exchange Web Service):
+# Instructions for starting the Stock Server (Stock Exchange Web Service):
 
 1. Install python3 if not already installed
 
@@ -58,7 +48,10 @@ Instructions for starting the Stock Server (Stock Exchange Web Service):
 3. In Linux, see /var/log/nginx/access.log and /var/log/nginx/error.log for normal and error log files.
 
 
-Website is hosted , url is given below
+# Website is hosted , url is given below
 - http://zeropixel.in/ALKESH/LATEST/login.php
+
+# Screenshots
+
 
 
