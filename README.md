@@ -52,6 +52,10 @@ https://www.javatpoint.com/installing-nginx-on-mac
 - http://zeropixel.in/ALKESH/LATEST/login.php
 
 # Screenshots
+![Picture2](https://user-images.githubusercontent.com/20412445/84295706-8c4e7580-ab10-11ea-8162-3c718871d138.png). 
+![Picture3](https://user-images.githubusercontent.com/20412445/84295710-8ce70c00-ab10-11ea-9027-cc69327111c3.png). 
+![Picture4](https://user-images.githubusercontent.com/20412445/84295717-8e183900-ab10-11ea-8e7c-232db27b21c6.png). 
+![Picture5](https://user-images.githubusercontent.com/20412445/84295723-8f496600-ab10-11ea-8833-aed15862ddc9.png). 
 
 
 
